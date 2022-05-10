@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { moveSyntheticComments } from "typescript";
+
 import './styles.css';
 
 function Form() {
